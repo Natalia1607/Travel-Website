@@ -67,6 +67,13 @@
     flex-direction: column;
 }
 
+.input-wrap input, 
+.input-wrap select {
+    padding: .2rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
 .search input, select {
     font-size: 1rem;
     font-family: 'Poppins', sans-serif;

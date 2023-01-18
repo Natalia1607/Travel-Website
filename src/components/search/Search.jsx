@@ -2,7 +2,7 @@ import React from 'react';
 import './SearchStyles.css';
 
 import Gold from '../../assets/gold.png';
-
+ 
 const Search = () => {
   return (
     <div name='book' className='search'>
